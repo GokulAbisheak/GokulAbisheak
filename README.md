@@ -13,7 +13,7 @@ Visit my portfolio - [gokulabisheak.me](https://gokulabisheak.me)
 ![](https://img.shields.io/badge/Medium-323232?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@gokulabisheak)
 ![](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=gokulabisheak12@gmail.com)
 
-</div>
+
 
 <br>
 <br>
@@ -65,9 +65,14 @@ Visit my portfolio - [gokulabisheak.me](https://gokulabisheak.me)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=GokulAbisheak&show_icons=true&theme=transparent&hide_rank=true&hide_border=true&text_color=2f80ed&icon_color=2f80ed&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=GokulAbisheak&show_icons=true&theme=transparent&hide_border=true&text_color=2f80ed&icon_color=2f80ed&hide_title=true)
 
 <br>
+<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
+### Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulabisheak&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
+
+</div>
 
