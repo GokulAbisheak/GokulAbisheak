@@ -8,10 +8,10 @@ Visit my portfolio - [gokulabisheak.me](https://gokulabisheak.me)
 
 <br>
 
-![](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/gokul-abisheak)
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/gokulabisheak)
-![](https://img.shields.io/badge/Medium-323232?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@gokulabisheak)
-![](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=gokulabisheak12@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/gokul-abisheak)](https://linkedin.com/in/gokul-abisheak)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/gokulabisheak)](https://instagram.com/gokulabisheak)
+[![](https://img.shields.io/badge/Medium-323232?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@gokulabisheak)](https://medium.com/@gokulabisheak)
+[![](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=gokulabisheak12@gmail.com)](https://mail.google.com/mail/?view=cm&fs=1&to=gokulabisheak12@gmail.com)
 
 
 
