@@ -4,7 +4,7 @@
 
 👋 Hey! My name is Gokul Abisheak, Software Engineering undergraduate at Sri Lankan Institute of Information Technology. I like to learn new techologies and adapt to it. Currently I'm learning about Cloud Services. Looking forward to contribute in community projects.
 
-Visit my portfolio - [gokulabisheak.me](https://gokulabisheak.me)
+Visit my portfolio - [gokulabisheak.dev](https://gokulabisheak.dev)
 
 <br>
 
