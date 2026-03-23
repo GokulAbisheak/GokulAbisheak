@@ -2,7 +2,7 @@
 
 # Gokul Abisheak
 
-👋 Hey! My name is Gokul Abisheak, Software Engineering undergraduate at Sri Lankan Institute of Information Technology. I like to learn new techologies and adapt to it. Currently I'm learning about Cloud Services. Looking forward to contribute in community projects.
+👋 Hey! My name is Gokul Abisheak, Currently I'm a Software Engineer in Innobot Health. I'm interested in creating new innovative tools and products :)
 
 Visit my portfolio - [gokulabisheak.dev](https://gokulabisheak.dev)
 
